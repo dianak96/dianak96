@@ -8,4 +8,8 @@
 
 ### Vías de contacto
 
-![IG](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fdianak_g96%2F)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fdianak_g96%2F)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dianak96/dianak96)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dianak96/MiPrimerRepo)
